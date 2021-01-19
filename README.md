@@ -1,2 +1,5 @@
 # QR Scan w/ ScanKit
- This program uses Huawei's ScanKit for scanning the QR codes.
+<p>Huawei's ScanKit framework and MVVM design pattern used.</p>
+
+<h1>Screenshot from app</h1>
+ <img src="https://i.imgur.com/gh3cm8q.jpg" width="350" height="700" title="hover text">
